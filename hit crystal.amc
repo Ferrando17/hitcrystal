@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>ayarlarda 4 tusuna obsidyen 3 tusuna kristal koyun ayarlarin geri kalani onemli degil onlari kafaniza gore envanter duzeninize gore ayarlayin gorus alanini maksimuma yakın tavsiye ederim makroyu kullanmak daha kolay bir hale gelir ayarlarinizdaki PCM dügmesinde "Kullan" secenegine sahip olmalisiniz.</Description>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10
+KeyDown 33 1
+Delay 10
+KeyUp 33 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 10
+KeyDown 32 1
+Delay 10
+KeyUp 32 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10
+RightDown 1
+Delay 10
+RightUp 1
+Delay 10</Syntax>
+    </KeyDown>
+    <Software>minecraft</Software>
+  </DefaultMacro>
+</Root>
